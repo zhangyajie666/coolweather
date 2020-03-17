@@ -1,1 +1,3 @@
-# coolweather
+# coolweather 酷天气
+### 刚接触Android的第一个实战项目，计划三天跟着敲完。并通过这个小项目掌握git指令，以及github的一些操作和知识。
+#### 第二天，干就完事了！
